@@ -47,7 +47,7 @@
 * Справа — загрузка вакансии
 * Внизу — результат анализа, процент совпадения, совпадающие и отсутствующие навыки
 
-![Uploading image.png…]()
+<img src="https://sun9-75.userapi.com/impg/C63BlazoifRs0mTuBc5HuAF58sWc5t65QSXhgg/QXJTpTBG344.jpg?size=1841x882&quality=95&sign=038a98f810c9b0398797cecc3965bdb3&type=album" alt="">
 
 
 
